@@ -10,5 +10,5 @@
 . ./setup-tmux.sh
 . ./setup-tt.sh
 . ./setup-web-term.sh
-
+. ./setup-paru.sh
 
