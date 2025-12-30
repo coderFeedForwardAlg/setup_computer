@@ -11,4 +11,4 @@
 . ./setup-tt.sh
 . ./setup-web-term.sh
 . ./setup-paru.sh
-
+. ./setup-node.sh
